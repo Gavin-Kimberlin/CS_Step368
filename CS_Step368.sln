@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CS_Step368", "CS_Step368\CS_Step368.rptproj", "{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}.Debug|Default.ActiveCfg = Debug
+		{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}.Debug|Default.Build.0 = Debug
+		{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}.Debug|Default.Deploy.0 = Debug
+		{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}.DebugLocal|Default.Build.0 = DebugLocal
+		{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}.Release|Default.ActiveCfg = Release
+		{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}.Release|Default.Build.0 = Release
+		{BEA0F31D-72E7-4FCB-B3C6-96891DF0CF55}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC92B75B-F60C-47F1-822C-BC117780BF6C}
+	EndGlobalSection
+EndGlobal
